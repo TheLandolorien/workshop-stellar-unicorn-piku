@@ -1,6 +1,6 @@
 # Stellar Unicorn Piku Workshop
 
-This is the setup and steps for the workshop run at SEA-Tech High School in Castle Hayne, NC on March 14, 2025 by Lando Toothman.
+This is the setup and steps for the workshop run at SEA-Tech High School in Castle Hayne, NC for Pi Day 2025 by Lando Toothman.
 
 ## :zap: Quick Start
 
@@ -28,7 +28,7 @@ Your Stellar Unicorn will display a Pi-ku as scrolling text.
 
 And ta-da! You're ready to start coding a Stellar Unicorn! :tada:
 
-## :🥧: Creating a Pi-ku
+## 🥧 Creating a Pi-ku
 
 1. Press the Stop button.
 1. Open and run [`main.py`](./main.py).
